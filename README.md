@@ -1,4 +1,4 @@
--## 🧮 Calculadora Moderna  
+## 🧮 Calculadora Moderna  
 
 Uma calculadora simples, moderna e responsiva desenvolvida com **HTML, CSS e JavaScript**.  
 
